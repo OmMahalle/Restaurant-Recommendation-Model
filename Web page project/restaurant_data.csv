@@ -1,0 +1,1450 @@
+Restaurant_Name,Cuisine,Price_for_1,Location,Rating
+Cafe Amudham,south indian,400,jayanagar,100
+Cafe Amudham,snacks,400,jayanagar,100
+Sannidhi Grand,south indian,150,kammanahalli,10000
+Sannidhi Grand,north indian,150,kammanahalli,10000
+Sannidhi Grand,chinese,150,kammanahalli,10000
+Sannidhi Grand,beverages,150,kammanahalli,10000
+Veena Stores,south indian,100,malleshwaram,10000
+Vidyarthi Bhavan,south indian,150,basavanagudi,10000
+Namaste,south indian,100,vijayanagar,1000
+Namaste,thalis,100,vijayanagar,1000
+Namaste,snacks,100,vijayanagar,1000
+Namaste,biryani,100,vijayanagar,1000
+Namaste,indian,100,vijayanagar,1000
+Namaste,chinese,100,vijayanagar,1000
+Namaste,desserts,100,vijayanagar,1000
+Namaste,beverages,100,vijayanagar,1000
+Puliyogare Point,south indian,150,basavanagudi,10000
+Third Wave Coffee,beverages,400,vasanth-nagar,100
+Third Wave Coffee,bakery,400,vasanth-nagar,100
+Third Wave Coffee,continental,400,vasanth-nagar,100
+Vishnu Garden,chinese,251,ganganagar,10000
+Vishnu Garden,south indian,251,ganganagar,10000
+Vishnu Garden,north indian,251,ganganagar,10000
+Priyadarshini Veg,north indian,150,yeshwantpur,10000
+Priyadarshini Veg,south indian,150,yeshwantpur,10000
+Priyadarshini Veg,chinese,150,yeshwantpur,10000
+Priyadarshini Veg,fast food,150,yeshwantpur,10000
+Priyadarshini Veg,desserts,150,yeshwantpur,10000
+Arogya Ahaara,south indian,150,jp-nagar,1000
+Arogya Ahaara,north indian,150,jp-nagar,1000
+Arogya Ahaara,chinese,150,jp-nagar,1000
+A2B - Adyar Ananda Bhavan,south indian,300,shanti-nagar,10000
+A2B - Adyar Ananda Bhavan,north indian,300,shanti-nagar,10000
+A2B - Adyar Ananda Bhavan,sweets,300,shanti-nagar,10000
+A2B - Adyar Ananda Bhavan,chinese,300,shanti-nagar,10000
+Vijayalakshmi veg,south indian,200,town,500
+Vijayalakshmi veg,beverages,200,town,500
+New Taj Darbar,biryani,300,shivajinagar,5000
+New Taj Darbar,indian,300,shivajinagar,5000
+New Taj Darbar,chinese,300,shivajinagar,5000
+New Taj Darbar,tandoor,300,shivajinagar,5000
+New Taj Darbar,seafood,300,shivajinagar,5000
+Burger King,burgers,350,seshadripuram,10000
+Burger King,american,350,seshadripuram,10000
+Vijayalakshmi,south indian,150,basavanagudi,10000
+Vijayalakshmi,north indian,150,basavanagudi,10000
+Vijayalakshmi,chinese,150,basavanagudi,10000
+MTR,south indian,300,st-marks-road,10000
+Royal Restaurant,chinese,300,shivajinagar,1000
+Royal Restaurant,north indian,300,shivajinagar,1000
+Royal Restaurant,tandoor,300,shivajinagar,1000
+Udupi Ruchi Grand,south indian,150,banashankari,10000
+Udupi Ruchi Grand,chinese,150,banashankari,10000
+Udupi Ruchi Grand,north indian,150,banashankari,10000
+Udupi Ruchi Grand,chaat,150,banashankari,10000
+Udupi Ruchi Grand,snacks,150,banashankari,10000
+Hotel Aditya (Mahalakshmipuram),north indian,300,basaveshwaranagar,1000
+Hotel Aditya (Mahalakshmipuram),south indian,300,basaveshwaranagar,1000
+Hotel Aditya (Mahalakshmipuram),biryani,300,basaveshwaranagar,1000
+NATRAJ Chole bhature,indian,200,indiranagar,5000
+Sri Udupi Sagar,south indian,150,layout,1000
+Sri Udupi Sagar,north indian,150,layout,1000
+Sri Udupi Sagar,chinese,150,layout,1000
+Kullad Cafe,north indian,150,layout,10000
+Kullad Cafe,beverages,150,layout,10000
+Ganesh Food Joint,south indian,150,town,1000
+South Idlis,south indian,150,rajajinagar,100
+South Idlis,chinese,150,rajajinagar,100
+Welcome Upahara,south indian,150,jp-nagar,1000
+Welcome Upahara,north indian,150,jp-nagar,1000
+UDUPI PARK IN,beverages,70,hebbal,100
+UDUPI PARK IN,indian,70,hebbal,100
+UDUPI PARK IN,fast food,70,hebbal,100
+Shanti Sagar,south indian,300,ulsoor,10000
+Shanti Sagar,north indian,300,ulsoor,10000
+Shanti Sagar,chinese,300,ulsoor,10000
+Rampyari Chaiwala Netaji Bhajiawala,chaat,100,layout,1000
+Rampyari Chaiwala Netaji Bhajiawala,snacks,100,layout,1000
+Rampyari Chaiwala Netaji Bhajiawala,street food,100,layout,1000
+Rampyari Chaiwala Netaji Bhajiawala,indian,100,layout,1000
+New Alameen Restaurant,biryani,300,halasuru,1000
+New Alameen Restaurant,kerala,300,halasuru,1000
+New Alameen Restaurant,meat,300,halasuru,1000
+New Alameen Restaurant,north indian,300,halasuru,1000
+New Alameen Restaurant,south indian,300,halasuru,1000
+McDonald's,burgers,400,malleshwaram,10000
+McDonald's,beverages,400,malleshwaram,10000
+McDonald's,cafe,400,malleshwaram,10000
+McDonald's,desserts,400,malleshwaram,10000
+SRI NAYVEDYA VEG,south indian,150,jayanagar,500
+Namma Madurai,south indian,150,indiranagar,5000
+SRI UDUPI VAIBHAV,south indian,199,indiranagar,1000
+SRI UDUPI VAIBHAV,north indian,199,indiranagar,1000
+SRI UDUPI VAIBHAV,chinese,199,indiranagar,1000
+Gowdru Hotel,south indian,149,indiranagar,5000
+Sangam Mess,kerala,300,kalyan-nagar,10000
+Sangam Mess,south indian,300,kalyan-nagar,10000
+Sangam Mess,biryani,300,kalyan-nagar,10000
+Sangam Mess,seafood,300,kalyan-nagar,10000
+Sangam Mess,beverages,300,kalyan-nagar,10000
+Rotti Walla,north indian,200,indiranagar,10000
+Rotti Walla,chinese,200,indiranagar,10000
+Rotti Walla,snacks,200,indiranagar,10000
+Rotti Walla,beverages,200,indiranagar,10000
+Rotti Walla,tandoor,200,indiranagar,10000
+Upahara Darshini,chinese,400,jayanagar,1000
+Upahara Darshini,south indian,400,jayanagar,1000
+Upahara Darshini,north indian,400,jayanagar,1000
+Upahara Darshini,desserts,400,jayanagar,1000
+Upahara Darshini,fast food,400,jayanagar,1000
+KFC,burgers,400,shanti-nagar,1000
+KFC,biryani,400,shanti-nagar,1000
+KFC,american,400,shanti-nagar,1000
+KFC,snacks,400,shanti-nagar,1000
+KFC,fast food,400,shanti-nagar,1000
+U.K CORNER,fast food,300,bel-road,10
+U.K CORNER,pizzas,300,bel-road,10
+U.K CORNER,ice cream,300,bel-road,10
+TAPAS HIDEOUT,north indian,300,indiranagar,1000
+TAPAS HIDEOUT,snacks,300,indiranagar,1000
+Coffee Cafe,beverages,100,basaveshwara-nagar,20
+Park View Restaurant,chinese,200,jp-nagar,10000
+Park View Restaurant,south indian,200,jp-nagar,10000
+Park View Restaurant,north indian,200,jp-nagar,10000
+Park View Restaurant,beverages,200,jp-nagar,10000
+Bakingo,bakery,299,vasanth-nagar,500
+Bakingo,desserts,299,vasanth-nagar,500
+Bakingo,beverages,299,vasanth-nagar,500
+Bakingo,snacks,299,vasanth-nagar,500
+Jay Jaganath Bengali Mess,north indian,280,mathikere,1000
+Ayodhya Sagara,chinese,200,basaveshwara-nagar,100
+Ayodhya Sagara,south indian,200,basaveshwara-nagar,100
+Ayodhya Sagara,north indian,200,basaveshwara-nagar,100
+Ayodhya Sagara,desserts,200,basaveshwara-nagar,100
+Ayodhya Sagara,beverages,200,basaveshwara-nagar,100
+Ayodhya Sagara,mughlai,200,basaveshwara-nagar,100
+New Shanti Upahar,south indian,200,jayanagar,5000
+Chinese Wok,chinese,250,malleshwaram,100
+Chinese Wok,asian,250,malleshwaram,100
+Chinese Wok,tibetan,250,malleshwaram,100
+Chinese Wok,desserts,250,malleshwaram,100
+Sandwich Guru,snacks,99,basavanagudi,1000
+Sandwich Guru,beverages,99,basavanagudi,1000
+New Udupi Grand,south indian,250,adugodi,100
+New Udupi Grand,north indian,250,adugodi,100
+New Udupi Grand,chinese,250,adugodi,100
+New Udupi Grand,beverages,250,adugodi,100
+CakeZone,bakery,200,indiranagar,10000
+CakeZone,desserts,200,indiranagar,10000
+CakeZone,sweets,200,indiranagar,10000
+CakeZone,ice cream,200,indiranagar,10000
+GALLI KITCHEN,south indian,200,banashankari,500
+GALLI KITCHEN,fast food,200,banashankari,500
+Shrinidhi Military Hotel,south indian,299,basavanagudi,500
+Anand Sweets & Savouries,sweets,300,indiranagar,10000
+Anand Sweets & Savouries,chaat,300,indiranagar,10000
+Anand Sweets & Savouries,snacks,300,indiranagar,10000
+Anand Sweets & Savouries,desserts,300,indiranagar,10000
+Anand Sweets & Savouries,north indian,300,indiranagar,10000
+Sri Ganesh Upahara,south indian,200,vijayanagar,100
+Sri Ganesh Upahara,chinese,200,vijayanagar,100
+Sagar fast food,chinese,200,koramangala,5000
+Sagar fast food,south indian,200,koramangala,5000
+Sagar fast food,north indian,200,koramangala,5000
+Sri Vishnu Grand Veg,south indian,200,majestic,50
+Sri Vishnu Grand Veg,north indian,200,majestic,50
+Sri Vishnu Grand Veg,chinese,200,majestic,50
+Udupi Upahar,south indian,200,rt-nagar,100
+Udupi Upahar,north indian,200,rt-nagar,100
+Udupi Upahar,chinese,200,rt-nagar,100
+Udupi Upahar,chaat,200,rt-nagar,100
+Udupi Upahar,beverages,200,rt-nagar,100
+Pizza House,pizzas,400,shivaji-nagar,20
+Ranganna Military Hotel,south indian,300,jayanagar,10000
+Rajathadri Food Fort,chinese,350,jayanagar,10000
+Rajathadri Food Fort,south indian,350,jayanagar,10000
+Rajathadri Food Fort,north indian,350,jayanagar,10000
+Rajathadri Food Fort,desserts,350,jayanagar,10000
+Rishi's Paratha Plaza,north indian,300,sanjay-nagar,1000
+THE PASTRY ZONE,bakery,150,kalyan-nagar,1000
+THE PASTRY ZONE,desserts,150,kalyan-nagar,1000
+THE PASTRY ZONE,beverages,150,kalyan-nagar,1000
+THE PASTRY ZONE,ice cream,150,kalyan-nagar,1000
+Leon's - Burgers & Wings (Leon Grill),american,300,koramangala,10000
+Leon's - Burgers & Wings (Leon Grill),snacks,300,koramangala,10000
+Leon's - Burgers & Wings (Leon Grill),turkish,300,koramangala,10000
+Leon's - Burgers & Wings (Leon Grill),portuguese,300,koramangala,10000
+Leon's - Burgers & Wings (Leon Grill),continental,300,koramangala,10000
+Raghavendra Tiffins,south indian,400,koramangala,500
+Raghavendra Tiffins,north indian,400,koramangala,500
+Raghavendra Tiffins,chinese,400,koramangala,500
+Raghavendra Tiffins,indian,400,koramangala,500
+Cakewala,desserts,400,jayanagar,5000
+Snacks Corner,snacks,350,indiranagar,1000
+Snacks Corner,north indian,350,indiranagar,1000
+Snacks Corner,beverages,350,indiranagar,1000
+Snacks Corner,street food,350,indiranagar,1000
+Ande Ka Funda,north indian,99,jp-nagar,100
+Fresh Bites,north indian,200,indiranagar,10000
+Fresh Bites,south indian,200,indiranagar,10000
+Fresh Bites,chinese,200,indiranagar,10000
+Fresh Bites,juices,200,indiranagar,10000
+Fresh Bites,tandoor,200,indiranagar,10000
+Thatte Idli Junction,south indian,150,kalyan-nagar,100
+Chikkanna Tiffin Room(Cubbonpet),south indian,200,nagarathpete,100
+Chikkanna Tiffin Room(Cubbonpet),snacks,200,nagarathpete,100
+TrueCakes - Fresh | Eggless | Cakes,bakery,300,domlur,100
+TrueCakes - Fresh | Eggless | Cakes,desserts,300,domlur,100
+Umesh Refreshments UDP,south indian,200,indiranagar,1000
+Umesh Refreshments UDP,beverages,200,indiranagar,1000
+COFFEE SANTHE,south indian,100,mathikere,100
+Marwadi Chaat & Tiffin Services Shanti nagar,rajasthani,300,shanti-nagar,5000
+Marwadi Chaat & Tiffin Services Shanti nagar,north indian,300,shanti-nagar,5000
+Marwadi Chaat & Tiffin Services Shanti nagar,snacks,300,shanti-nagar,5000
+Marwadi Chaat & Tiffin Services Shanti nagar,chaat,300,shanti-nagar,5000
+Asha Sweet Center,sweets,250,vasanth-nagar,50
+Asha Sweet Center,desserts,250,vasanth-nagar,50
+DHARMIK VEG,south indian,300,town,50
+DHARMIK VEG,chinese,300,town,50
+DHARMIK VEG,fast food,300,town,50
+DHARMIK VEG,snacks,300,town,50
+Namma kudla Veg  Malleswaram,coastal,100,malleshwaram,1000
+Namma kudla Veg  Malleswaram,konkan,100,malleshwaram,1000
+Namma kudla Veg  Malleswaram,south indian,100,malleshwaram,1000
+Namma kudla Veg  Malleswaram,sweets,100,malleshwaram,1000
+SLV Refereshments,south indian,100,banashankari,500
+SriVari Cafe,south indian,150,jp-nagar,100
+Nam's Express Kitchen,south indian,250,rajajinagar,100
+Nam's Express Kitchen,chinese,250,rajajinagar,100
+Kaippunnyam Restaurant,indian,300,ashok-nagar,100
+Kaippunnyam Restaurant,seafood,300,ashok-nagar,100
+Cake House,bakery,250,kalyan-nagar,20
+The Fruit Bowl,healthy food,200,layout,1000
+The Fruit Bowl,juices,200,layout,1000
+The Fruit Bowl,keto,200,layout,1000
+The Fruit Bowl,snacks,200,layout,1000
+The Fruit Bowl,salads,200,layout,1000
+Udupi Aatithya,south indian,500,basavanagudi,100
+Udupi Aatithya,beverages,500,basavanagudi,100
+Sangam Sweets,north indian,100,seshadripuram,1000
+Sangam Sweets,desserts,100,seshadripuram,1000
+Wok China,chinese,300,indiranagar,100
+Samovar Restaurant,kerala,350,kammanahalli,10000
+Samovar Restaurant,south indian,350,kammanahalli,10000
+Samovar Restaurant,biryani,350,kammanahalli,10000
+Samovar Restaurant,seafood,350,kammanahalli,10000
+Samovar Restaurant,chinese,350,kammanahalli,10000
+Singh Ji Food,north indian,250,layout,20
+Juice World,beverages,200,shanti-nagar,10
+Juice World,snacks,200,shanti-nagar,10
+Chocolate Philosophy,desserts,500,central,10
+SMOOR,asian,450,lavelle-road,100
+SMOOR,desserts,450,lavelle-road,100
+SMOOR,italian,450,lavelle-road,100
+SMOOR,thai,450,lavelle-road,100
+SMOOR,ice cream,450,lavelle-road,100
+SMOOR,salads,450,lavelle-road,100
+SMOOR,sushi,450,lavelle-road,100
+SMOOR,beverages,450,lavelle-road,100
+SMOOR,bakery,450,lavelle-road,100
+SMOOR,caf...,450,lavelle-road,100
+JUST CREAMERY - Healthy Ice Cream,ice cream,200,malleshwaram,20
+JUST CREAMERY - Healthy Ice Cream,desserts,200,malleshwaram,20
+JUST CREAMERY - Healthy Ice Cream,healthy food,200,malleshwaram,20
+JUST CREAMERY - Healthy Ice Cream,keto,200,malleshwaram,20
+Old Madras Baking Company,bakery,450,st-marks-road,20
+Old Madras Baking Company,desserts,450,st-marks-road,20
+BHAGATRAM SWEETS,sweets,300,ulsoor,1000
+BHAGATRAM SWEETS,indian,300,ulsoor,1000
+BHAGATRAM SWEETS,south indian,300,ulsoor,1000
+BHAGATRAM SWEETS,north indian,300,ulsoor,1000
+BHAGATRAM SWEETS,beverages,300,ulsoor,1000
+Udta Punjab Cafe,north indian,150,shanti-nagar,100
+Lo! - Low Carb and Keto Foods,healthy food,150,indiranagar,1000
+Lo! - Low Carb and Keto Foods,keto,150,indiranagar,1000
+Lo! - Low Carb and Keto Foods,north indian,150,indiranagar,1000
+Lo! - Low Carb and Keto Foods,continental,150,indiranagar,1000
+UTTARA KARNATAKA JOLADA ROTTI ANGADI,snacks,100,banashankari,1000
+UTTARA KARNATAKA JOLADA ROTTI ANGADI,sweets,100,banashankari,1000
+UTTARA KARNATAKA JOLADA ROTTI ANGADI,south indian,100,banashankari,1000
+CHETTINAD FOOD HOUSE,indian,200,layout,1000
+Hotel Udupi Ruchi,south indian,300,rajajinagar,10000
+Hotel Udupi Ruchi,chinese,300,rajajinagar,10000
+Hotel Udupi Ruchi,desserts,300,rajajinagar,10000
+Hotel Udupi Ruchi,north indian,300,rajajinagar,10000
+Ayodhya vihar,chinese,250,bima-nagar,5000
+Ayodhya vihar,south indian,250,bima-nagar,5000
+Ayodhya vihar,north indian,250,bima-nagar,5000
+Ayodhya vihar,desserts,250,bima-nagar,5000
+Chapati Factory,chinese,99,jp-nagar,500
+Chapati Factory,south indian,99,jp-nagar,500
+Chapati Factory,indian,99,jp-nagar,500
+Aubree,desserts,700,shivajinagar,100
+Aubree,bakery,700,shivajinagar,100
+Dad's Hack Kombucha,beverages,398,indiranagar,20
+The Brahmins Khanavali,south indian,200,st-marks-road,1000
+Happy Belly Bakes- Cakes and Desserts,desserts,500,town,5000
+Happy Belly Bakes- Cakes and Desserts,bakery,500,town,5000
+Happy Belly Bakes- Cakes and Desserts,snacks,500,town,5000
+Happy Belly Bakes- Cakes and Desserts,keto,500,town,5000
+Happy Belly Bakes- Cakes and Desserts,beverages,500,town,5000
+Dhaba Co.,north indian,650,ashok-nagar,50
+Myfroyoland - Premium Frozen Yogurt,desserts,400,seshadripuram,20
+Myfroyoland - Premium Frozen Yogurt,ice cream,400,seshadripuram,20
+Myfroyoland - Premium Frozen Yogurt,keto,400,seshadripuram,20
+Pablo's By Living Food,indian,250,indiranagar,100
+Pablo's By Living Food,pizzas,250,indiranagar,100
+MELANGE BY ASHA SWEET CENTER,bakery,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,fast food,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,cafe,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,burgers,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,pizzas,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,pastas,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,juices,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,sweets,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,snacks,120,malleshwaram,500
+MELANGE BY ASHA SWEET CENTER,desser...,120,malleshwaram,500
+Shree Taaza Thindi,south indian,150,indiranagar,1000
+Shree Taaza Thindi,snacks,150,indiranagar,1000
+Kolkata Foods,north indian,250,bommanahalli,100
+Kolkata Foods,chinese,250,bommanahalli,100
+Kolkata Foods,tandoor,250,bommanahalli,100
+Kolkata Foods,bengali,250,bommanahalli,100
+"New Holige Mane	",indian,150,jayanagar,20
+New South Corner,south indian,250,layout,1000
+New South Corner,north indian,250,layout,1000
+New South Corner,chinese,250,layout,1000
+DVG Benne Dosa,south indian,100,domlur,5000
+Sri Maruthi Miltry Hotel,biryani,250,rajajinagar,5000
+Sri Maruthi Miltry Hotel,south indian,250,rajajinagar,5000
+Santa banta ke parathey,indian,110,bel-road,20
+Santa banta ke parathey,chinese,110,bel-road,20
+Santa banta ke parathey,beverages,110,bel-road,20
+Santa banta ke parathey,snacks,110,bel-road,20
+New Kairali Restaurant,kerala,355,kammanahalli,1000
+New Kairali Restaurant,seafood,355,kammanahalli,1000
+LAKSHMI SARASWATHI SWEETS,sweets,250,wilson-garden,10
+LAKSHMI SARASWATHI SWEETS,beverages,250,wilson-garden,10
+LAKSHMI SARASWATHI SWEETS,indian,250,wilson-garden,10
+Loca Moca,fast food,250,town,0
+Loca Moca,cafe,250,town,0
+Loca Moca,beverages,250,town,0
+Loca Moca,pizzas,250,town,0
+Loca Moca,pastas,250,town,0
+Loca Moca,ice cream,250,town,0
+Loca Moca,burgers,250,town,0
+Shahi Family Restaurant,seafood,299,ulsoor,1000
+Shahi Family Restaurant,tandoor,299,ulsoor,1000
+Shahi Family Restaurant,chinese,299,ulsoor,1000
+Shahi Family Restaurant,north indian,299,ulsoor,1000
+Shahi Family Restaurant,south indian,299,ulsoor,1000
+Pure Veg Meals by Lunchbox,north indian,200,vasanth-nagar,100
+Pure Veg Meals by Lunchbox,desserts,200,vasanth-nagar,100
+Pure Veg Meals by Lunchbox,biryani,200,vasanth-nagar,100
+TIPSY LASSI SHOP,desserts,250,central,50
+TIPSY LASSI SHOP,ice cream,250,central,50
+TIPSY LASSI SHOP,beverages,250,central,50
+TIPSY LASSI SHOP,juices,250,central,50
+Karachi Bakery,bakery,400,indiranagar,1000
+Karachi Bakery,pizzas,400,indiranagar,1000
+Karachi Bakery,chinese,400,indiranagar,1000
+Karachi Bakery,italian,400,indiranagar,1000
+Karachi Bakery,american,400,indiranagar,1000
+Karachi Bakery,sweets,400,indiranagar,1000
+Karachi Bakery,desserts,400,indiranagar,1000
+Karachi Bakery,beverages,400,indiranagar,1000
+Nuage,continental,800,indiranagar,100
+Nuage,desserts,800,indiranagar,100
+Ramji Chaiwale,fast food,100,ashok-nagar,1000
+Ramji Chaiwale,punjabi,100,ashok-nagar,1000
+Ramji Chaiwale,desserts,100,ashok-nagar,1000
+COAL FLAME BIRIYAANI,mughlai,400,jayanagar,100
+COAL FLAME BIRIYAANI,indian,400,jayanagar,100
+COAL FLAME BIRIYAANI,biryani,400,jayanagar,100
+COAL FLAME BIRIYAANI,combo,400,jayanagar,100
+COAL FLAME BIRIYAANI,andhra,400,jayanagar,100
+COAL FLAME BIRIYAANI,beverages,400,jayanagar,100
+COAL FLAME BIRIYAANI,kebabs,400,jayanagar,100
+COAL FLAME BIRIYAANI,sweets,400,jayanagar,100
+COAL FLAME BIRIYAANI,hyderabadi,400,jayanagar,100
+COAL FLAME BIRIYAANI,...,400,jayanagar,100
+Kamat Hotel,south indian,200,basavanagudi,10
+Hotel Chandrika,south indian,300,vasanth-nagar,10000
+Hotel Chandrika,north indian,300,vasanth-nagar,10000
+Hotel Chandrika,chinese,300,vasanth-nagar,10000
+Hotel Chandrika,juices,300,vasanth-nagar,10000
+Hotel Chandrika,chaat,300,vasanth-nagar,10000
+Hotel Chandrika,ice cream,300,vasanth-nagar,10000
+Richie Rich,desserts,500,course-road,10000
+Richie Rich,snacks,500,course-road,10000
+Richie Rich,chaat,500,course-road,10000
+Richie Rich,ice cream,500,course-road,10000
+Polar Bear Ice Cream Sundaes,ice cream,350,town,1000
+Polar Bear Ice Cream Sundaes,desserts,350,town,1000
+LunchBox - Meals and Thalis,north indian,200,shantinagar,500
+LunchBox - Meals and Thalis,chinese,200,shantinagar,500
+LunchBox - Meals and Thalis,desserts,200,shantinagar,500
+LunchBox - Meals and Thalis,biryani,200,shantinagar,500
+Thottathil Restaurant,south indian,200,layout,10000
+Garam Chai Xpress,beverages,100,banashankari,20
+Garam Chai Xpress,indian,100,banashankari,20
+Garam Chai Xpress,snacks,100,banashankari,20
+NOTO - Healthy Ice Cream,desserts,250,central,100
+NOTO - Healthy Ice Cream,ice cream,250,central,100
+Cafe Reset,cafe,350,koramangala,20
+Cafe Reset,beverages,350,koramangala,20
+Cafe Reset,italian,350,koramangala,20
+Cafe Reset,continental,350,koramangala,20
+Cafe Reset,salads,350,koramangala,20
+Cafe Reset,snacks,350,koramangala,20
+Cafe Reset,juices,350,koramangala,20
+Dosa Idli Corner,south indian,150,domlur,10
+A1 Chips,snacks,250,indiranagar,500
+A1 Chips,sweets,250,indiranagar,500
+Cupcake Bliss Cake & Desserts,bakery,200,vasanth-nagar,20
+Cupcake Bliss Cake & Desserts,desserts,200,vasanth-nagar,20
+Cupcake Bliss Cake & Desserts,ice cream,200,vasanth-nagar,20
+Cupcake Bliss Cake & Desserts,beverages,200,vasanth-nagar,20
+Dum Biryani Hub,biryani,450,layout,500
+Dum Biryani Hub,north indian,450,layout,500
+Dum Biryani Hub,chinese,450,layout,500
+Dum Biryani Hub,desserts,450,layout,500
+Dum Biryani Hub,beverages,450,layout,500
+Sri Maruthi Hotel,north indian,400,rajajinagar,50
+Sri Krishna Sagar,south indian,200,koramangala,10000
+Sri Krishna Sagar,north indian,200,koramangala,10000
+Sri Krishna Sagar,beverages,200,koramangala,10000
+Sri Krishna Sagar,jain,200,koramangala,10000
+Sri Krishna Juices,juices,200,ulsoor,10
+Sri Krishna Juices,beverages,200,ulsoor,10
+Indian Maharaj,snacks,500,basavanagudi,0
+Indian Maharaj,desserts,500,basavanagudi,0
+Indian Maharaj,bakery,500,basavanagudi,0
+M.S Dose Corner,south indian,100,temple-road,20
+Cotton Candy Station,beverages,200,rajajinagar,10
+Mini Samrat Chalukya,south indian,350,vasanth-nagar,1000
+Mini Samrat Chalukya,north indian,350,vasanth-nagar,1000
+Mini Samrat Chalukya,chinese,350,vasanth-nagar,1000
+Mini Samrat Chalukya,desserts,350,vasanth-nagar,1000
+Blue Tokai Coffee Roasters,healthy food,800,shivaji-nagar,500
+Blue Tokai Coffee Roasters,american,800,shivaji-nagar,500
+Blue Tokai Coffee Roasters,lebanese,800,shivaji-nagar,500
+Blue Tokai Coffee Roasters,mediterranean,800,shivaji-nagar,500
+Blue Tokai Coffee Roasters,european,800,shivaji-nagar,500
+Blue Tokai Coffee Roasters,juices,800,shivaji-nagar,500
+Blue Tokai Coffee Roasters,middle easter...,800,shivaji-nagar,500
+Fresh Pressery Cafe,continental,500,koramangala,10000
+Fresh Pressery Cafe,italian,500,koramangala,10000
+Fresh Pressery Cafe,salads,500,koramangala,10000
+Fresh Pressery Cafe,pastas,500,koramangala,10000
+Fresh Pressery Cafe,beverages,500,koramangala,10000
+Fresh Pressery Cafe,pizzas,500,koramangala,10000
+Fresh Pressery Cafe,snacks,500,koramangala,10000
+Fresh Pressery Cafe,american,500,koramangala,10000
+Fresh Pressery Cafe,healt...,500,koramangala,10000
+Malabar Bay,kerala,300,koramangala,10000
+Malabar Bay,seafood,300,koramangala,10000
+Malabar Bay,south indian,300,koramangala,10000
+Malabar Bay,biryani,300,koramangala,10000
+Malabar Bay,chinese,300,koramangala,10000
+Malabar Bay,desserts,300,koramangala,10000
+Malabar Bay,beverages,300,koramangala,10000
+Nisarga Garden,north indian,200,basavanagudi,1000
+Nisarga Garden,south indian,200,basavanagudi,1000
+Nisarga Garden,chaat,200,basavanagudi,1000
+Nisarga Garden,beverages,200,basavanagudi,1000
+Sree Krishna Kafe,south indian,137,koramangala,10000
+Falhari - A Fruitful Habit,salads,300,tavarekere,1000
+Falhari - A Fruitful Habit,juices,300,tavarekere,1000
+Falhari - A Fruitful Habit,beverages,300,tavarekere,1000
+Falhari - A Fruitful Habit,desserts,300,tavarekere,1000
+Om Sai Ram Food Junction,north indian,5,indiranagar,100
+Om Sai Ram Food Junction,bengali,5,indiranagar,100
+Om Sai Ram Food Junction,south indian,5,indiranagar,100
+Om Sai Ram Food Junction,fast food,5,indiranagar,100
+Om Sai Ram Food Junction,chinese,5,indiranagar,100
+Om Sai Ram Food Junction,biryani,5,indiranagar,100
+Om Sai Ram Food Junction,desserts,5,indiranagar,100
+Om Sai Ram Food Junction,kera...,5,indiranagar,100
+Udupi Grand,chinese,500,basavanagudi,1000
+Udupi Grand,north indian,500,basavanagudi,1000
+Udupi Grand,south indian,500,basavanagudi,1000
+BIRIYANI HOUSE,biryani,350,layout,100
+Bansuri Sweets,desserts,150,layout,1000
+Chaaska Chaat Point,snacks,150,koramangala,10
+Chaaska Chaat Point,chinese,150,koramangala,10
+Chaaska Chaat Point,indian,150,koramangala,10
+Chaaska Chaat Point,juices,150,koramangala,10
+Durga Shree Samruddhi Grand,south indian,200,nagawara,10
+Durga Shree Samruddhi Grand,chinese,200,nagawara,10
+Durga Shree Samruddhi Grand,north indian,200,nagawara,10
+Durga Shree Samruddhi Grand,tandoor,200,nagawara,10
+Durga Shree Samruddhi Grand,chaat,200,nagawara,10
+Durga Shree Samruddhi Grand,beverages,200,nagawara,10
+Durga Shree Samruddhi Grand,desserts,200,nagawara,10
+"Bhartiya Jalpan - Sweets, Dry Fruit and Savouries",north indian,300,shivajinagar,500
+"Bhartiya Jalpan - Sweets, Dry Fruit and Savouries",sweets,300,shivajinagar,500
+"Bhartiya Jalpan - Sweets, Dry Fruit and Savouries",desserts,300,shivajinagar,500
+"Bhartiya Jalpan - Sweets, Dry Fruit and Savouries",chaat,300,shivajinagar,500
+TAAZA MITHAI,sweets,200,jp-nagar,20
+TAAZA MITHAI,snacks,200,jp-nagar,20
+Little Cafe,chinese,200,brigade-road,20
+Little Cafe,continental,200,brigade-road,20
+Little Cafe,beverages,200,brigade-road,20
+Krispy Kreme,desserts,170,richmond-road,1000
+Krispy Kreme,beverages,170,richmond-road,1000
+Keventers - Milkshakes & Desserts,beverages,200,magrth-road,100
+Keventers - Milkshakes & Desserts,ice cream,200,magrth-road,100
+Keventers - Milkshakes & Desserts,desserts,200,magrth-road,100
+Keventers - Milkshakes & Desserts,healthy food,200,magrth-road,100
+Taste of malabar,kerala,230,layout,1000
+Taste of malabar,south indian,230,layout,1000
+Taste of malabar,seafood,230,layout,1000
+Taste of malabar,chinese,230,layout,1000
+Saapad Raman,chettinad,300,kammanahalli,1000
+Saapad Raman,andhra,300,kammanahalli,1000
+Saapad Raman,south indian,300,kammanahalli,1000
+Saapad Raman,biryani,300,kammanahalli,1000
+Aahar,south indian,200,majestic,20
+Aahar,beverages,200,majestic,20
+Flax - Healthy Living,salads,700,indiranagar,5000
+Flax - Healthy Living,healthy food,700,indiranagar,5000
+S G Rao's Military Hotel,south indian,400,majestic,100
+S G Rao's Military Hotel,biryani,400,majestic,100
+Sri Ram Bhojanalay,north indian,5,indiranagar,100
+Sri Ram Bhojanalay,bengali,5,indiranagar,100
+Sri Ram Bhojanalay,south indian,5,indiranagar,100
+Sri Ram Bhojanalay,fast food,5,indiranagar,100
+Sri Ram Bhojanalay,chinese,5,indiranagar,100
+Sri Ram Bhojanalay,biryani,5,indiranagar,100
+Sri Ram Bhojanalay,desserts,5,indiranagar,100
+Sri Ram Bhojanalay,kera...,5,indiranagar,100
+Tadka Singh,punjabi,300,street,10000
+Tadka Singh,north indian,300,street,10000
+Momo Zone - The Momo Company,chinese,200,vasanth-nagar,50
+Momo Zone - The Momo Company,tibetan,200,vasanth-nagar,50
+Momo Zone - The Momo Company,fast food,200,vasanth-nagar,50
+THAR the taste of Rajasthan,thalis,100,koramangala,100
+THAR the taste of Rajasthan,sweets,100,koramangala,100
+GR IYENGAR FAST FOOD,south indian,100,malleshwaram,100
+Rajvardhan Foods,maharashtrian,250,jayanagar,10000
+Shree Guru Sagar,north indian,150,basaveshwara-nagar,1000
+Shree Guru Sagar,south indian,150,basaveshwara-nagar,1000
+Shree Guru Sagar,chinese,150,basaveshwara-nagar,1000
+Iyengars Bakery,bakery,200,course-road,100
+Iyengars Bakery,indian,200,course-road,100
+Iyengars Bakery,snacks,200,course-road,100
+Indiana Burgers,burgers,150,vasanth-nagar,100
+Indiana Burgers,american,150,vasanth-nagar,100
+Indiana Burgers,fast food,150,vasanth-nagar,100
+Indiana Burgers,beverages,150,vasanth-nagar,100
+Indiana Burgers,desserts,150,vasanth-nagar,100
+Temple of the Senses,healthy food,700,mg-road,50
+Temple of the Senses,beverages,700,mg-road,50
+NATURON CAKES,bakery,300,koramangala,20
+NATURON CAKES,indian,300,koramangala,20
+NATURON CAKES,sweets,300,koramangala,20
+NATURON CAKES,desserts,300,koramangala,20
+Ekta s Ghar Ka Khana,indian,248,stage-btm,0
+Ekta s Ghar Ka Khana,beverages,248,stage-btm,0
+City  Shanghai Center,chinese,300,indiranagar,50
+Kaati Zone Rolls & Wraps,fast food,150,vasanth-nagar,100
+Kaati Zone Rolls & Wraps,bengali,150,vasanth-nagar,100
+Kaati Zone Rolls & Wraps,beverages,150,vasanth-nagar,100
+Kaati Zone Rolls & Wraps,desserts,150,vasanth-nagar,100
+Hotel Devaregathi,south indian,100,banashankari,100
+Cake Ghar,bakery,300,layout,10
+Hungry Belly,north indian,400,indiranagar,10
+Hungry Belly,chinese,400,indiranagar,10
+Hungry Belly,seafood,400,indiranagar,10
+Hungry Belly,kebabs,400,indiranagar,10
+Hungry Belly,biryani,400,indiranagar,10
+The Himalayan Momo Company,chinese,200,indiranagar,1000
+The Himalayan Momo Company,tibetan,200,indiranagar,1000
+The Himalayan Momo Company,snacks,200,indiranagar,1000
+The Himalayan Momo Company,beverages,200,indiranagar,1000
+The Himalayan Momo Company,asian,200,indiranagar,1000
+Wow Chai Corner,beverages,100,rajajinagar,10
+Wow Chai Corner,snacks,100,rajajinagar,10
+Wow Chai Corner,fast food,100,rajajinagar,10
+IYENGAR BAKERY SWEETS AND CHATS,bakery,300,layout,20
+IYENGAR BAKERY SWEETS AND CHATS,sweets,300,layout,20
+IYENGAR BAKERY SWEETS AND CHATS,snacks,300,layout,20
+VadaWala,snacks,100,banashankari,100
+VadaWala,beverages,100,banashankari,100
+VadaWala,chinese,100,banashankari,100
+VadaWala,maharashtrian,100,banashankari,100
+VadaWala,street food,100,banashankari,100
+VadaWala,fast food,100,banashankari,100
+VadaWala,ice cream,100,banashankari,100
+VadaWala,in...,100,banashankari,100
+CupCake Noggins,desserts,200,jp-nagar,50
+CupCake Noggins,snacks,200,jp-nagar,50
+CupCake Noggins,bakery,200,jp-nagar,50
+CupCake Noggins,beverages,200,jp-nagar,50
+CHOLAY,north indian,200,koramangala,500
+CHOLAY,indian,200,koramangala,500
+CHOLAY,snacks,200,koramangala,500
+CHOLAY,combo,200,koramangala,500
+Rolls N Snacks,street food,200,vijay-nagar,100
+SLN TIFFIN ROOM,biryani,100,vijayanagar,10
+Biryani Blues,biryani,400,ashok-nagar,500
+Biryani Blues,kebabs,400,ashok-nagar,500
+Biryani Blues,lucknowi,400,ashok-nagar,500
+Biryani Blues,hyderabadi,400,ashok-nagar,500
+154 Breakfast Club,american,1000,koramangala,500
+154 Breakfast Club,continental,1000,koramangala,500
+Cakes & Pastries,bakery,500,rajajinagar,100
+HRX by EatFit,healthy food,450,cunningham-road,50
+HRX by EatFit,salads,450,cunningham-road,50
+HRX by EatFit,keto,450,cunningham-road,50
+Hotel Rajadhani Hot Dum Biryani,kebabs,250,bel-road,10
+Hotel Rajadhani Hot Dum Biryani,indian,250,bel-road,10
+Shree Mahalakshmi Sweets,sweets,200,basavanagudi,500
+Shree Mahalakshmi Sweets,snacks,200,basavanagudi,500
+Jai Mataji Farsan and Sweets,sweets,200,yeshwantpur,500
+Jai Mataji Farsan and Sweets,snacks,200,yeshwantpur,500
+Home Plate by EatFit,north indian,200,cunningham-road,100
+Home Plate by EatFit,home food,200,cunningham-road,100
+Home Plate by EatFit,healthy food,200,cunningham-road,100
+Home Plate by EatFit,indian,200,cunningham-road,100
+Home Plate by EatFit,punjabi,200,cunningham-road,100
+Home Plate by EatFit,south indian,200,cunningham-road,100
+Home Plate by EatFit,rajasthani...,200,cunningham-road,100
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",beverages,250,ashok-nagar,1000
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",desserts,250,ashok-nagar,1000
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",ice cream,250,ashok-nagar,1000
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",waffle,250,ashok-nagar,1000
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",bakery,250,ashok-nagar,1000
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",healthy food,250,ashok-nagar,1000
+The SnackStop(Eswaris Homemade snacks),snacks,150,indiranagar,1000
+The SnackStop(Eswaris Homemade snacks),indian,150,indiranagar,1000
+The SnackStop(Eswaris Homemade snacks),sweets,150,indiranagar,1000
+The SnackStop(Eswaris Homemade snacks),bakery,150,indiranagar,1000
+The SnackStop(Eswaris Homemade snacks),north indian,150,indiranagar,1000
+The SnackStop(Eswaris Homemade snacks),south indian,150,indiranagar,1000
+The SnackStop(Eswaris Homemade snacks),home food,150,indiranagar,1000
+Eat & Repeat,south indian,200,basavanagudi,1000
+Punjabi Paratha,north indian,300,indiranagar,50
+Trupthi Ahaar,south indian,200,basavanagudi,100
+Kavali Hotel,south indian,250,banashankari,1000
+Cafe Pascucci,italian,600,jp-nagar,1000
+Cafe Pascucci,desserts,600,jp-nagar,1000
+Cafe Pascucci,pizzas,600,jp-nagar,1000
+SLAY Coffee Bar,beverages,200,st-marks-road,100
+SLAY Coffee Bar,desserts,200,st-marks-road,100
+Milano Ice Cream,ice cream,200,indiranagar,5000
+Milano Ice Cream,desserts,200,indiranagar,5000
+Breakfast Wala,north indian,150,indiranagar,500
+Protein Chef,healthy food,300,indiranagar,100
+Protein Chef,indian,300,indiranagar,100
+Protein Chef,snacks,300,indiranagar,100
+Protein Chef,fast food,300,indiranagar,100
+Burger It Up,burgers,150,vasanth-nagar,100
+Burger It Up,beverages,150,vasanth-nagar,100
+Burger It Up,desserts,150,vasanth-nagar,100
+Burger It Up,american,150,vasanth-nagar,100
+Burger It Up,cafe,150,vasanth-nagar,100
+Magnolia Bakery,bakery,500,indiranagar,5000
+Magnolia Bakery,desserts,500,indiranagar,5000
+Magnolia Bakery,ice cream,500,indiranagar,5000
+Amma's Andra stlye Homely Food,biryani,500,basaveshwaranagar,100
+Amma's Andra stlye Homely Food,north indian,500,basaveshwaranagar,100
+"Panditji - ras bana rahe( Pooris, Samosas, Kachori",snacks,200,indiranagar,1000
+"Panditji - ras bana rahe( Pooris, Samosas, Kachori",chaat,200,indiranagar,1000
+"Panditji - ras bana rahe( Pooris, Samosas, Kachori",sweets,200,indiranagar,1000
+Wood Fire Pizza,italian,400,kammanahalli,1000
+Wood Fire Pizza,pizzas,400,kammanahalli,1000
+Wood Fire Pizza,pastas,400,kammanahalli,1000
+Wood Fire Pizza,beverages,400,kammanahalli,1000
+Wood Fire Pizza,american,400,kammanahalli,1000
+Wood Fire Pizza,desserts,400,kammanahalli,1000
+Wood Fire Pizza,snacks,400,kammanahalli,1000
+What s On The Menu,south indian,249,stage-btm,0
+What s On The Menu,beverages,249,stage-btm,0
+Gabagab Ice Creams,ice cream,200,jayanagar,20
+Gabagab Ice Creams,desserts,200,jayanagar,20
+Bombay Vadapav Corner,north indian,100,malleshwaram,1000
+SWAAD KUTIRRA,south indian,500,basavanagudi,20
+Hive Honey Cake,bakery,200,shivaji-nagar,100
+Hive Honey Cake,desserts,200,shivaji-nagar,100
+Hive Honey Cake,cafe,200,shivaji-nagar,100
+Paratha Pradise,north indian,119,kalyan-nagar,0
+Sri Udupi Vaibhava,south indian,200,jayanagar,0
+Sri Udupi Vaibhava,chinese,200,jayanagar,0
+Dhanraj ji Chole Bhature,fast food,150,tavarekere,20
+Dhanraj ji Chole Bhature,north indian,150,tavarekere,20
+Dhanraj ji Chole Bhature,desserts,150,tavarekere,20
+Dhanraj ji Chole Bhature,punjabi,150,tavarekere,20
+Dhanraj ji Chole Bhature,street food,150,tavarekere,20
+Hot Burger Company,burgers,175,kalyan-nagar,10
+Hot Burger Company,desserts,175,kalyan-nagar,10
+Waffl'd,beverages,400,jp-nagar,0
+Waffl'd,ice cream,400,jp-nagar,0
+Big Mishra Pedha,desserts,200,rt-nagar,50
+Big Mishra Pedha,snacks,200,rt-nagar,50
+Nirula's,pizzas,500,indiranagar,500
+Nirula's,burgers,500,indiranagar,500
+Nirula's,ice cream,500,indiranagar,500
+Nirula's,north indian,500,indiranagar,500
+Nirula's,fast food,500,indiranagar,500
+Nirula's,pastas,500,indiranagar,500
+Nirula's,beverages,500,indiranagar,500
+North Indian spice,north indian,200,indiranagar,100
+Flavours by ITC Hotels,indian,1000,ashok-nagar,500
+Flavours by ITC Hotels,continental,1000,ashok-nagar,500
+Flavours by ITC Hotels,north indian,1000,ashok-nagar,500
+Flavours by ITC Hotels,biryani,1000,ashok-nagar,500
+Flavours by ITC Hotels,desserts,1000,ashok-nagar,500
+Taj Hotel,chinese,500,shivajinagar,1000
+Taj Hotel,mughlai,500,shivajinagar,1000
+Taj Hotel,north indian,500,shivajinagar,1000
+Green Leaf cafe,fast food,500,bel-road,10
+Green Leaf cafe,pastas,500,bel-road,10
+Green Leaf cafe,snacks,500,bel-road,10
+Green Leaf cafe,burgers,500,bel-road,10
+Savoury Seashell Restaurant - Kerala Style,arabian,600,layout,1000
+Savoury Seashell Restaurant - Kerala Style,indian,600,layout,1000
+Savoury Seashell Restaurant - Kerala Style,chinese,600,layout,1000
+Savoury Seashell Restaurant - Kerala Style,tandoor,600,layout,1000
+Savoury Seashell Restaurant - Kerala Style,biryani,600,layout,1000
+Savoury Seashell Restaurant - Kerala Style,seafood,600,layout,1000
+Savoury Seashell Restaurant - Kerala Style,kerala,600,layout,1000
+Samipa Iyengar Bakery,bakery,150,banashankari,1000
+South Ruchi,chinese,150,chikpete,1000
+South Ruchi,north indian,150,chikpete,1000
+South Ruchi,south indian,150,chikpete,1000
+Cheesecakes By CakeZone,desserts,200,indiranagar,20
+Cheesecakes By CakeZone,bakery,200,indiranagar,20
+MARUTHI RESTAURANT,indian,150,rajajinagar,20
+All Saints Bakery,bakery,200,ashok-nagar,5000
+All Saints Bakery,snacks,200,ashok-nagar,5000
+All Saints Bakery,desserts,200,ashok-nagar,5000
+The Celebration Cakes And Desserts,bakery,150,kalyan-nagar,100
+The Celebration Cakes And Desserts,desserts,150,kalyan-nagar,100
+The Celebration Cakes And Desserts,ice cream,150,kalyan-nagar,100
+Rajasthani Tadka Wala,thalis,150,layout,100
+Rajasthani Tadka Wala,north indian,150,layout,100
+Rajasthani Tadka Wala,snacks,150,layout,100
+GHAR WALA KHANA,indian,150,layout,100
+South Thindis,south indian,200,basavanagudi,10
+South Thindis,sweets,200,basavanagudi,10
+South Thindis,snacks,200,basavanagudi,10
+DYU ART CAFE,italian,400,koramangala,1000
+DYU ART CAFE,continental,400,koramangala,1000
+DYU ART CAFE,beverages,400,koramangala,1000
+DYU ART CAFE,desserts,400,koramangala,1000
+Pizza Theatre,italian,400,kammanahalli,100
+Pizza Theatre,american,400,kammanahalli,100
+Pizza Theatre,desserts,400,kammanahalli,100
+Pizza Theatre,beverages,400,kammanahalli,100
+Pizza Theatre,pastas,400,kammanahalli,100
+Pizza Theatre,continental,400,kammanahalli,100
+Thoda Aur,north indian,300,koramangala,100
+Thoda Aur,bihari,300,koramangala,100
+Thoda Aur,maharashtrian,300,koramangala,100
+Pizza Kingdom,pizzas,300,indiranagar,50
+Pizza Kingdom,burgers,300,indiranagar,50
+Pizza Kingdom,beverages,300,indiranagar,50
+SHREE SAGAR VEG FAST FOOD,south indian,250,majestic,10
+SHREE SAGAR VEG FAST FOOD,beverages,250,majestic,10
+jai bhavani dhaba,indian,250,indiranagar,500
+Social,north indian,500,mg-road,5000
+Social,chinese,500,mg-road,5000
+Social,fast food,500,mg-road,5000
+Social,biryani,500,mg-road,5000
+Social,pizzas,500,mg-road,5000
+Social,salads,500,mg-road,5000
+Social,kebabs,500,mg-road,5000
+Social,juices,500,mg-road,5000
+Social,desse...,500,mg-road,5000
+SLV Delite,chinese,350,majestic,500
+SLV Delite,north indian,350,majestic,500
+SLV Delite,south indian,350,majestic,500
+The Khichadi Factory,north indian,300,indiranagar,1000
+MVM MULBAGAL DOSA CORNER,south indian,150,banaswadi,50
+Main Lassi Shop,beverages,250,central,1000
+Main Lassi Shop,juices,250,central,1000
+Main Lassi Shop,ice cream,250,central,1000
+Main Lassi Shop,pizzas,250,central,1000
+Main Lassi Shop,desserts,250,central,1000
+The Brooklyn Creamery - Healthy Ice Cream,desserts,200,seshadripuram,100
+The Brooklyn Creamery - Healthy Ice Cream,ice cream,200,seshadripuram,100
+The Brooklyn Creamery - Healthy Ice Cream,healthy food,200,seshadripuram,100
+Davanagere Benne Dose Mane,south indian,200,jp-nagar,20
+"One Bite	",snacks,150,koramangala,10
+"One Bite	",bakery,150,koramangala,10
+"One Bite	",beverages,150,koramangala,10
+"One Bite	",desserts,150,koramangala,10
+"Just Bake - Bakery, Desserts, Cakes & Confectioners",desserts,400,banashankari,1000
+SATKRITI SAATVIK,south indian,120,jayanagar,100
+Poha point,maharashtrian,120,koramangala,500
+Poha point,snacks,120,koramangala,500
+Poha point,beverages,120,koramangala,500
+Barista Coffee,beverages,350,sadashiv-nagar,20
+Barista Coffee,snacks,350,sadashiv-nagar,20
+Barista Coffee,desserts,350,sadashiv-nagar,20
+Sweet Bake - Cake & Desserts,bakery,400,kammanahalli,100
+Sweet Bake - Cake & Desserts,desserts,400,kammanahalli,100
+Sweet Bake - Cake & Desserts,ice cream,400,kammanahalli,100
+Royal Biryani Kitchen,biryani,250,layout,100
+Royal Biryani Kitchen,chinese,250,layout,100
+Royal Biryani Kitchen,tandoor,250,layout,100
+Royal Biryani Kitchen,snacks,250,layout,100
+Royal Biryani Kitchen,mughlai,250,layout,100
+The Baker's Dozen,bakery,300,vasanth-nagar,100
+The Baker's Dozen,desserts,300,vasanth-nagar,100
+The Baker's Dozen,juices,300,vasanth-nagar,100
+The Baker's Dozen,beverages,300,vasanth-nagar,100
+The Baker's Dozen,snacks,300,vasanth-nagar,100
+Vp Biryani House,biryani,400,jp-nagar,10
+Vp Biryani House,kebabs,400,jp-nagar,10
+Vp Biryani House,fast food,400,jp-nagar,10
+Ipsha's Kitchen,snacks,300,rajajinagar,20
+Ipsha's Kitchen,pizzas,300,rajajinagar,20
+Ipsha's Kitchen,continental,300,rajajinagar,20
+Ipsha's Kitchen,indian,300,rajajinagar,20
+Kedia's Funfood,street food,200,jayanagar,100
+Let's Celebrate,bakery,1500,layout,20
+TENDER COCONUT,juices,200,layout,100
+FreshMenu,chinese,250,richmond-road,10000
+FreshMenu,continental,250,richmond-road,10000
+FreshMenu,italian,250,richmond-road,10000
+FreshMenu,mediterranean,250,richmond-road,10000
+FreshMenu,thai,250,richmond-road,10000
+FreshMenu,lebanese,250,richmond-road,10000
+FreshMenu,american,250,richmond-road,10000
+FreshMenu,asian,250,richmond-road,10000
+FreshMenu,b...,250,richmond-road,10000
+Sri Venkateshwara Sweets and Chats,sweets,150,yeshwantpur,50
+Sri Venkateshwara Sweets and Chats,chaat,150,yeshwantpur,50
+Udupi Kai Ruchi,south indian,100,jp-nagar,100
+Udupi Kai Ruchi,indian,100,jp-nagar,100
+Mama Mangaalore,mangalorean,250,koramangala,20
+Mama Mangaalore,south indian,250,koramangala,20
+Mama Mangaalore,biryani,250,koramangala,20
+Mama Mangaalore,keto,250,koramangala,20
+Mama Mangaalore,sweets,250,koramangala,20
+Mama Mangaalore,desserts,250,koramangala,20
+Mama Mangaalore,beverages,250,koramangala,20
+Kerala Pavilion,kerala,300,indiranagar,10000
+Kerala Pavilion,seafood,300,indiranagar,10000
+Sandoitchi Kojo Authentic Japanese Sandwiches,juices,300,layout,100
+Sandoitchi Kojo Authentic Japanese Sandwiches,japanese,300,layout,100
+Sandoitchi Kojo Authentic Japanese Sandwiches,salads,300,layout,100
+Sandoitchi Kojo Authentic Japanese Sandwiches,healthy food,300,layout,100
+Breakfast Junction,punjabi,200,jayanagar,20
+Breakfast Junction,north indian,200,jayanagar,20
+QMIN - Snacks & Chai,beverages,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,bakery,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,chaat,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,desserts,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,home food,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,maharashtrian,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,snacks,200,vasanth-nagar,1000
+QMIN - Snacks & Chai,street foo...,200,vasanth-nagar,1000
+Thin-di-Oo-ta,south indian,200,malleshwaram,20
+Thin-di-Oo-ta,north indian,200,malleshwaram,20
+Thin-di-Oo-ta,continental,200,malleshwaram,20
+Thin-di-Oo-ta,snacks,200,malleshwaram,20
+Kooreys,juices,89,kammanahalli,20
+Kooreys,beverages,89,kammanahalli,20
+Olio - The Wood Fired Pizzeria,pizzas,300,koramangala,100
+Olio - The Wood Fired Pizzeria,italian,300,koramangala,100
+Peppa Zzing,burgers,500,town,5000
+Peppa Zzing,continental,500,town,5000
+Peppa Zzing,street food,500,town,5000
+Peppa Zzing,british,500,town,5000
+Lot Like Crepes Indiranagar,french,500,indiranagar,1000
+Lot Like Crepes Indiranagar,american,500,indiranagar,1000
+Lot Like Crepes Indiranagar,italian,500,indiranagar,1000
+Lot Like Crepes Indiranagar,desserts,500,indiranagar,1000
+Chole Bhature Street,indian,300,indiranagar,100
+Chole Bhature Street,beverages,300,indiranagar,100
+FB Cafe By Frozen Bottle,desserts,500,brigade-road,50
+FB Cafe By Frozen Bottle,pizzas,500,brigade-road,50
+FB Cafe By Frozen Bottle,bakery,500,brigade-road,50
+Shree Veerabhadreshwara Rotti Holige Mane,south indian,200,basaveshwara-nagar,1000
+Aramane Donne Biriyani,biryani,250,banashankari,100
+Aramane Donne Biriyani,south indian,250,banashankari,100
+Mallu family Restaurant,indian,200,layout,500
+Mallu family Restaurant,chinese,200,layout,500
+Mallu family Restaurant,arabian,200,layout,500
+Deshi Fusion Pizza,italian,500,indiranagar,1000
+Deshi Fusion Pizza,pizzas,500,indiranagar,1000
+Nature fresh ice & spice,ice cream,100,layout,500
+Nature fresh ice & spice,indian,100,layout,500
+Nature fresh ice & spice,chinese,100,layout,500
+Nature fresh ice & spice,tandoor,100,layout,500
+Nature fresh ice & spice,biryani,100,layout,500
+Rohan's Kitchen,american,180,indiranagar,50
+Rohan's Kitchen,italian-american,180,indiranagar,50
+Rohan's Kitchen,salads,180,indiranagar,50
+Rohan's Kitchen,italian,180,indiranagar,50
+FB Cakes,desserts,1500,indiranagar,0
+HOTEL VIRAT SIRI DARSHINI,south indian,180,rajajinagar,10
+HOTEL VIRAT SIRI DARSHINI,chinese,180,rajajinagar,10
+HOTEL VIRAT SIRI DARSHINI,north indian,180,rajajinagar,10
+THE BANGALORE TIFFANYS,south indian,200,vijay-nagar,20
+Savi Sagar,south indian,150,rajajinagar,1000
+Savi Sagar,north indian,150,rajajinagar,1000
+Savi Sagar,chinese,150,rajajinagar,1000
+Savi Sagar,beverages,150,rajajinagar,1000
+Sweet Chariot,desserts,50,malleshwaram,1000
+SOUTH HOLIGE MANE,south indian,200,vijayanagar,50
+SOUTH HOLIGE MANE,snacks,200,vijayanagar,50
+SOUTH HOLIGE MANE,sweets,200,vijayanagar,50
+The Home Bakery,bakery,200,town,10
+The Home Bakery,desserts,200,town,10
+Navya Samrat,north indian,500,ashok-nagar,50
+Navya Samrat,south indian,500,ashok-nagar,50
+Navya Samrat,chinese,500,ashok-nagar,50
+Navya Samrat,tandoor,500,ashok-nagar,50
+Navya Samrat,beverages,500,ashok-nagar,50
+ARAKU Coffee,bakery,500,indiranagar,100
+ARAKU Coffee,beverages,500,indiranagar,100
+ARAKU Coffee,continental,500,indiranagar,100
+ARAKU Coffee,desserts,500,indiranagar,100
+ARAKU Coffee,healthy food,500,indiranagar,100
+ARAKU Coffee,european,500,indiranagar,100
+Pradhan's kitchen,continental,220,indiranagar,100
+Pradhan's kitchen,salads,220,indiranagar,100
+Pradhan's kitchen,snacks,220,indiranagar,100
+Pradhan's kitchen,beverages,220,indiranagar,100
+Ghar Ki Rasoi,chinese,300,indiranagar,1000
+Ghar Ki Rasoi,italian,300,indiranagar,1000
+Ghar Ki Rasoi,north indian,300,indiranagar,1000
+Chai Sutta Cafe,beverages,300,kalyan-nagar,100
+Chai Sutta Cafe,juices,300,kalyan-nagar,100
+DYCE,continental,500,jayanagar,10
+DYCE,italian,500,jayanagar,10
+DYCE,thai,500,jayanagar,10
+DYCE,snacks,500,jayanagar,10
+M/s. SUKHSAGAR HOTEL GANDHINAGAR,north indian,200,majestic,500
+Uday Sweets,rajasthani,100,koramangala,5000
+New Chawla Chicken,chinese,400,layout,100
+New Chawla Chicken,indian,400,layout,100
+New Chawla Chicken,juices,400,layout,100
+New Chawla Chicken,pizzas,400,layout,100
+New Chawla Chicken,snacks,400,layout,100
+New Chawla Chicken,tandoor,400,layout,100
+McDonald's Gourmet Burger Collection,burgers,600,koramangala,50
+McDonald's Gourmet Burger Collection,beverages,600,koramangala,50
+McDonald's Gourmet Burger Collection,cafe,600,koramangala,50
+McDonald's Gourmet Burger Collection,desserts,600,koramangala,50
+V Cafe - Meals By PVR,pizzas,400,adugodi,50
+V Cafe - Meals By PVR,snacks,400,adugodi,50
+V Cafe - Meals By PVR,american,400,adugodi,50
+Boba Man- Bubble Tea & Waffle Co.,beverages,750,jp-nagar,100
+Boba Man- Bubble Tea & Waffle Co.,waffle,750,jp-nagar,100
+SANIDHYA VEG,south indian,1000,shanti-nagar,100
+SANIDHYA VEG,chinese,1000,shanti-nagar,100
+SANIDHYA VEG,chaat,1000,shanti-nagar,100
+crunch pizza express delivery,italian,300,indiranagar,100
+crunch pizza express delivery,pizzas,300,indiranagar,100
+Louis Burger,burgers,600,indiranagar,1000
+Louis Burger,fast food,600,indiranagar,1000
+Louis Burger,beverages,600,indiranagar,1000
+Kasthuri Bhavan Home Made Foods,south indian,100,indiranagar,20
+Udupi Athithya,south indian,130,layout,500
+Udupi Athithya,north indian,130,layout,500
+Udupi Athithya,chinese,130,layout,500
+Udupi Athithya,snacks,130,layout,500
+Udupi Athithya,beverages,130,layout,500
+Udupi Athithya,chaat,130,layout,500
+Sri Krishna bhavana,south indian,300,banashankari,10
+Sri Krishna bhavana,north indian,300,banashankari,10
+Sri Krishna bhavana,chinese,300,banashankari,10
+Sri Krishna bhavana,tandoor,300,banashankari,10
+Sri Krishna bhavana,beverages,300,banashankari,10
+Sri Krishna bhavana,juices,300,banashankari,10
+Chole Bhature Wale @ The Halwais,north indian,200,koramangala,20
+Chole Bhature Wale @ The Halwais,fast food,200,koramangala,20
+Chole Bhature Wale @ The Halwais,snacks,200,koramangala,20
+Sri Ramji sweets,sweets,75,rt-nagar,20
+Kachori Chowk,rajasthani,400,basaveshwara-nagar,10
+Kachori Chowk,north indian,400,basaveshwara-nagar,10
+Kachori Chowk,chaat,400,basaveshwara-nagar,10
+ANNAPURNA NORTH INDIAN & CHINESE RESTAURANT,indian,200,yeshwantpur,50
+ANNAPURNA NORTH INDIAN & CHINESE RESTAURANT,chinese,200,yeshwantpur,50
+GOWHEY- HEALTHY DESSERT COMPANY,desserts,200,layout,20
+GOWHEY- HEALTHY DESSERT COMPANY,ice cream,200,layout,20
+GOWHEY- HEALTHY DESSERT COMPANY,healthy food,200,layout,20
+Chai Corner,north indian,200,indiranagar,100
+Chai Corner,snacks,200,indiranagar,100
+Chai Corner,pastas,200,indiranagar,100
+Chai Corner,beverages,200,indiranagar,100
+Winni Cakes & More,bakery,200,jp-nagar,50
+Winni Cakes & More,desserts,200,jp-nagar,50
+Om meals and paratha junction,north indian,5,domlur,100
+Om meals and paratha junction,thalis,5,domlur,100
+Om meals and paratha junction,chinese,5,domlur,100
+Om meals and paratha junction,south indian,5,domlur,100
+Om meals and paratha junction,beverages,5,domlur,100
+Om meals and paratha junction,snacks,5,domlur,100
+Om meals and paratha junction,biryani,5,domlur,100
+Om meals and paratha junction,kerala,5,domlur,100
+Om meals and paratha junction,...,5,domlur,100
+Indian Bowls by Living Food,north indian,300,koramangala,10
+Indian Bowls by Living Food,south indian,300,koramangala,10
+Indian Bowls by Living Food,healthy food,300,koramangala,10
+Indian Bowls by Living Food,keto,300,koramangala,10
+Indian Bowls by Living Food,beverages,300,koramangala,10
+Indian Bowls by Living Food,desserts,300,koramangala,10
+Indian Bowls by Living Food,snacks,300,koramangala,10
+Indian Bowls by Living Food,swe...,300,koramangala,10
+New Samrat Restaurant,south indian,150,seshadripuram,100
+New Samrat Restaurant,north indian,150,seshadripuram,100
+New Samrat Restaurant,snacks,150,seshadripuram,100
+New Samrat Restaurant,sweets,150,seshadripuram,100
+Southly Healthy By Adiga's,south indian,200,majestic,20
+Southly Healthy By Adiga's,healthy food,200,majestic,20
+Chaat Street Express,snacks,150,koramangala,5000
+Chaat Street Express,chaat,150,koramangala,5000
+Chaat Street Express,street food,150,koramangala,5000
+Chaat Street Express,beverages,150,koramangala,5000
+Chaat Street Express,north indian,150,koramangala,5000
+Chaat Street Express,indian,150,koramangala,5000
+Chaat Street Express,maharashtrian,150,koramangala,5000
+Chaat Street Express,raja...,150,koramangala,5000
+JUICE AND CHATS,beverages,200,vijayanagar,10
+Sagar Restaurant,north indian,399,seshadripuram,5000
+Sagar Restaurant,chinese,399,seshadripuram,5000
+Sagar Restaurant,chaat,399,seshadripuram,5000
+Sagar Restaurant,tandoor,399,seshadripuram,5000
+Sagar Restaurant,jain,399,seshadripuram,5000
+"Sri Udupi Utsav	",south indian,299,koramangala,10
+"Sri Udupi Utsav	",indian,299,koramangala,10
+"Sri Udupi Utsav	",tandoor,299,koramangala,10
+"Sri Udupi Utsav	",north indian,299,koramangala,10
+"Sri Udupi Utsav	",chinese,299,koramangala,10
+"Sri Udupi Utsav	",sweets,299,koramangala,10
+"Sri Udupi Utsav	",juices,299,koramangala,10
+Chai Nagri,beverages,300,sanjay-nagar,20
+Chai Nagri,fast food,300,sanjay-nagar,20
+Chai Nagri,snacks,300,sanjay-nagar,20
+The Punjabi kitchen,north indian,5,indiranagar,50
+The Punjabi kitchen,bengali,5,indiranagar,50
+The Punjabi kitchen,south indian,5,indiranagar,50
+The Punjabi kitchen,fast food,5,indiranagar,50
+The Punjabi kitchen,chinese,5,indiranagar,50
+The Punjabi kitchen,biryani,5,indiranagar,50
+The Punjabi kitchen,desserts,5,indiranagar,50
+The Punjabi kitchen,kera...,5,indiranagar,50
+New Bhimas Garden Veg,chinese,200,seshadripuram,100
+New Bhimas Garden Veg,chaat,200,seshadripuram,100
+New Bhimas Garden Veg,juices,200,seshadripuram,100
+New Bhimas Garden Veg,north indian,200,seshadripuram,100
+New Bhimas Garden Veg,south indian,200,seshadripuram,100
+Toit,american,1000,indiranagar,1000
+Toit,italian,1000,indiranagar,1000
+Toit,pastas,1000,indiranagar,1000
+Toit,pizzas,1000,indiranagar,1000
+Jmv Condiments,snacks,200,audgodi,50
+Purple Hippie,healthy food,250,jp-nagar,20
+Smoky and Snacky,chinese,180,basavangudi,20
+Smoky and Snacky,fast food,180,basavangudi,20
+Smoky and Snacky,indian,180,basavangudi,20
+KOLKOTA CHAT CENTRE,beverages,300,indiranagar,100
+KOLKOTA CHAT CENTRE,fast food,300,indiranagar,100
+KOLKOTA CHAT CENTRE,indian,300,indiranagar,100
+The Food Club,indian,10,indiranagar,10
+The Food Club,thalis,10,indiranagar,10
+EatFit Pizzeria,healthy food,270,indiranagar,20
+EatFit Pizzeria,pizzas,270,indiranagar,20
+EatFit Pizzeria,north indian,270,indiranagar,20
+EatFit Pizzeria,thalis,270,indiranagar,20
+EatFit Pizzeria,biryani,270,indiranagar,20
+EatFit Pizzeria,chinese,270,indiranagar,20
+Bombay Kulfis,desserts,300,indiranagar,100
+Bihar Babu,punjabi,200,basavanagudi,10
+Bihar Babu,north indian,200,basavanagudi,10
+Bihar Babu,thalis,200,basavanagudi,10
+Monsoon,andhra,700,mg-road,500
+Monsoon,asian,700,mg-road,500
+Monsoon,bengali,700,mg-road,500
+Monsoon,biryani,700,mg-road,500
+Monsoon,chettinad,700,mg-road,500
+Monsoon,coastal,700,mg-road,500
+Monsoon,continental,700,mg-road,500
+Monsoon,desserts,700,mg-road,500
+Monsoon,ital...,700,mg-road,500
+The Bakers Holt,bakery,500,jp-nagar,100
+The Bakers Holt,pizzas,500,jp-nagar,100
+The Bakers Holt,desserts,500,jp-nagar,100
+Iyengars bakery and sweets,indian,100,layout,20
+Iyengars bakery and sweets,bakery,100,layout,20
+Iyengars bakery and sweets,snacks,100,layout,20
+Nashta House,south indian,250,central,10
+Nashta House,chinese,250,central,10
+Dezire SugarFree Sweets & Bakes,sweets,400,basavanagudi,100
+Dezire SugarFree Sweets & Bakes,bakery,400,basavanagudi,100
+Dezire SugarFree Sweets & Bakes,beverages,400,basavanagudi,100
+"Davanagere Benne Dosa Manne	",south indian,200,basavanagudi,10
+Lavender Bakery by Fresh Pressery,continental,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,italian,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,beverages,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,pastas,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,desserts,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,pizzas,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,salads,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,snacks,250,koramangala,1000
+Lavender Bakery by Fresh Pressery,baker...,250,koramangala,1000
+Cafe Mor'ish,continental,500,richmond-road,500
+Cafe Mor'ish,american,500,richmond-road,500
+Cafe Mor'ish,burgers,500,richmond-road,500
+Cafe Mor'ish,pastas,500,richmond-road,500
+Cafe Mor'ish,italian,500,richmond-road,500
+PORKY'S,snacks,400,layout,10
+PORKY'S,chinese,400,layout,10
+BRAHMINS VEG CORNER/SRI GURU RAGHAVENDRA ENTERPRIS,south indian,130,banashankari,50
+BRAHMINS VEG CORNER/SRI GURU RAGHAVENDRA ENTERPRIS,beverages,130,banashankari,50
+FACE CAKE (THE PASTRY HUB),bakery,900,rt-nagar,10
+BDBD Banashri Davanagere Benne Dose Hotel,south indian,150,vijayanagar,1000
+IYENGAR BAKERY AND SWEETS,bakery,250,basavanagudi,20
+IYENGAR BAKERY AND SWEETS,snacks,250,basavanagudi,20
+IYENGAR BAKERY AND SWEETS,desserts,250,basavanagudi,20
+Fresh crunch pizza,pizzas,400,indiranagar,20
+Fresh crunch pizza,burgers,400,indiranagar,20
+The Handi Crust,indian,350,halasuru,500
+The Handi Crust,chaat,350,halasuru,500
+Bite Me Cupcakes,desserts,200,jp-nagar,0
+Bite Me Cupcakes,beverages,200,jp-nagar,0
+Bite Me Cupcakes,ice cream,200,jp-nagar,0
+Baker's pride,bakery,150,vijayanagar,100
+Baker's pride,chaat,150,vijayanagar,100
+Baker's pride,sweets,150,vijayanagar,100
+The Srirangam Cafe,south indian,300,indiranagar,0
+Brik Oven,italian,1000,course-road,100
+Brik Oven,pizzas,1000,course-road,100
+Brik Oven,desserts,1000,course-road,100
+Brik Oven,beverages,1000,course-road,100
+Kamat Aahaar- Malleshwaram,south indian,350,malleshwaram,100
+Kamat Aahaar- Malleshwaram,snacks,350,malleshwaram,100
+Kamat Aahaar- Malleshwaram,beverages,350,malleshwaram,100
+Sayaam Kitchen,north indian,250,indiranagar,50
+Sayaam Kitchen,chinese,250,indiranagar,50
+Vinay Upahar,south indian,200,mg-road,100
+Vinay Upahar,snacks,200,mg-road,100
+Vinay Upahar,beverages,200,mg-road,100
+Ghee Tadka Khichdi,indian,300,town,20
+Ghee Tadka Khichdi,home food,300,town,20
+Maach Misti And More,afghani,500,layout,500
+Maach Misti And More,bengali,500,layout,500
+Maach Misti And More,tandoor,500,layout,500
+Just Burger Off,american,250,indiranagar,100
+Spicy Corner,south indian,150,halasuru,100
+Spicy Corner,chinese,150,halasuru,100
+Spicy Corner,north indian,150,halasuru,100
+The Paratha Factory,chinese,300,indiranagar,100
+The Paratha Factory,north indian,300,indiranagar,100
+REEZ RESTAURANT,chinese,300,central,20
+REEZ RESTAURANT,biryani,300,central,20
+REEZ RESTAURANT,indian,300,central,20
+REEZ RESTAURANT,north indian,300,central,20
+DILWALE RESTAURANT,juices,300,central,50
+DILWALE RESTAURANT,beverages,300,central,50
+DILWALE RESTAURANT,ice cream,300,central,50
+DILWALE RESTAURANT,indian,300,central,50
+DILWALE RESTAURANT,burgers,300,central,50
+DILWALE RESTAURANT,sweets,300,central,50
+Bhikharam Chandmal & Co. Bhujiawala,indian,300,indiranagar,10
+Bhikharam Chandmal & Co. Bhujiawala,sweets,300,indiranagar,10
+Bhikharam Chandmal & Co. Bhujiawala,chaat,300,indiranagar,10
+Bhikharam Chandmal & Co. Bhujiawala,snacks,300,indiranagar,10
+FlavorVille,north indian,450,basavanagudi,20
+FlavorVille,chinese,450,basavanagudi,20
+FlavorVille,fast food,450,basavanagudi,20
+FlavorVille,pizzas,450,basavanagudi,20
+FlavorVille,pastas,450,basavanagudi,20
+Shree Sagar Fast Food,beverages,100,majestic,10
+Shree Sagar Fast Food,chinese,100,majestic,10
+Shree Sagar Fast Food,desserts,100,majestic,10
+Shree Sagar Fast Food,north indian,100,majestic,10
+Shree Sagar Fast Food,south indian,100,majestic,10
+3 Guys & a Dawg,american,400,ashok-nagar,20
+3 Guys & a Dawg,beverages,400,ashok-nagar,20
+3 Guys & a Dawg,snacks,400,ashok-nagar,20
+3 Guys & a Dawg,fast food,400,ashok-nagar,20
+Sri Bharani Mixtures,snacks,200,banaswadi,100
+Sri Bharani Mixtures,sweets,200,banaswadi,100
+Sri Bharani Mixtures,desserts,200,banaswadi,100
+Sri Bharani Mixtures,indian,200,banaswadi,100
+P N R REFRESHMENTS,north indian,300,layout,10
+P N R REFRESHMENTS,indian,300,layout,10
+P N R REFRESHMENTS,chinese,300,layout,10
+Mr sweets,sweets,100,rt-nagar,10
+Mr sweets,snacks,100,rt-nagar,10
+Ameen cafe,indian,180,shivajinagar,10
+TEA TIME CAFE,beverages,149,layout,500
+TEA TIME CAFE,snacks,149,layout,500
+CAFE PETRIQOR,european,500,jp-nagar,50
+CAFE PETRIQOR,asian,500,jp-nagar,50
+CAFE PETRIQOR,beverages,500,jp-nagar,50
+Yadav Cafe,cafe,250,koramangala,10
+Yadav Cafe,snacks,250,koramangala,10
+Yadav Cafe,north indian,250,koramangala,10
+Yadav Cafe,fast food,250,koramangala,10
+Dada's Chai,indian,175,indiranagar,10
+Dada's Chai,snacks,175,indiranagar,10
+Dada's Chai,beverages,175,indiranagar,10
+GOWDRU MILTRY HOTEL,south indian,300,jayanagar,0
+GOWDRU MILTRY HOTEL,biryani,300,jayanagar,0
+GOWDRU MILTRY HOTEL,snacks,300,jayanagar,0
+GOWDRU MILTRY HOTEL,kebabs,300,jayanagar,0
+Ragigudda Cake World,bakery,200,jp-nagar,10
+Ragigudda Cake World,fast food,200,jp-nagar,10
+Ragigudda Cake World,burgers,200,jp-nagar,10
+Sri Krishna Upahar,south indian,150,koramangala,10
+Sri Krishna Upahar,chinese,150,koramangala,10
+NEW UDUPI DHARSHINI,south indian,250,layout,20
+NEW UDUPI DHARSHINI,indian,250,layout,20
+NEW UDUPI DHARSHINI,chinese,250,layout,20
+RJ 19 Cafe,north indian,200,jayanagar,20
+Dadi Di Rasoi,north indian,200,jayanagar,50
+The Cake Touch,bakery,600,kalyan-nagar,10
+Meal Town,north indian,300,muneswara-nagar,10
+Meal Town,chinese,300,muneswara-nagar,10
+Meal Town,snacks,300,muneswara-nagar,10
+The Fast Food,south indian,150,malleshwaram,500
+The Fast Food,indian,150,malleshwaram,500
+Laura Cakes And Desserts,bakery,400,koramangala,10
+Laura Cakes And Desserts,desserts,400,koramangala,10
+Thali's Station,thalis,250,layout,100
+Thali's Station,north indian,250,layout,100
+Scooby Cookhouse,continental,300,layout,50
+Scooby Cookhouse,italian,300,layout,50
+Scooby Cookhouse,fast food,300,layout,50
+Scooby Cookhouse,burgers,300,layout,50
+Scooby Cookhouse,beverages,300,layout,50
+Cafe Muziris,bakery,319,indiranagar,0
+Cafe Muziris,pastas,319,indiranagar,0
+Maa Kali Ka Dhaba,north indian,200,layout,10
+Maa Kali Ka Dhaba,snacks,200,layout,10
+Maa Kali Ka Dhaba,biryani,200,layout,10
+HOUSE OF BELGIAN,desserts,250,banashankari,10
+HOUSE OF BELGIAN,beverages,250,banashankari,10
+HOUSE OF BELGIAN,snacks,250,banashankari,10
+Cakes Tree,bakery,600,rajajinagar,0
+The Sandesh Factory,sweets,150,layout,100
+BOSS Burger,burgers,500,lavelle-road,1000
+BOSS Burger,american,500,lavelle-road,1000
+BOSS Burger,fast food,500,lavelle-road,1000
+BOSS Burger,snacks,500,lavelle-road,1000
+Dawat Durbar,north indian,200,shivajinagar,10
+Dawat Durbar,chinese,200,shivajinagar,10
+Dawat Durbar,mughlai,200,shivajinagar,10
+Juicy,beverages,250,marathahalli,10
+Juicy,juices,250,marathahalli,10
+Juicy,fast food,250,marathahalli,10
+Freshii al natural,ice cream,150,layout,100
+Freshii al natural,juices,150,layout,100
+Freshii al natural,snacks,150,layout,100
+Freshii al natural,chinese,150,layout,100
+Northern Bite,north indian,200,town,20
+Rolls & Bowls Company,indian,250,adugodi,100
+Rolls & Bowls Company,north indian,250,adugodi,100
+Rolls & Bowls Company,chinese,250,adugodi,100
+Paratha Depot,north indian,300,layout,10
+Cane Fresh,indian,50,town,500
+Cane Fresh,beverages,50,town,500
+Cane Fresh,desserts,50,town,500
+HOTEL AL-NOOR,south indian,200,layout,10
+HOTEL AL-NOOR,biryani,200,layout,10
+Book My cakes,bakery,400,indiranagar,500
+Book My cakes,desserts,400,indiranagar,500
+Book My cakes,continental,400,indiranagar,500
+TASTE OF BIHAR,indian,300,layout,100
+Urban chole bhature,indian,220,indiranagar,10
+Dj lassi house,beverages,150,stage-btm,10
+Dj lassi house,fast food,150,stage-btm,10
+Dj lassi house,burgers,150,stage-btm,10
+Nandini Swadista Loka,north indian,250,yeshwanthpur,10
+Samosa Platter,snacks,400,indiranagar,10
+Samosa Platter,street food,400,indiranagar,10
+Samosa Platter,beverages,400,indiranagar,10
+CLAY POT TEA,beverages,300,ejipura,100
+CLAY POT TEA,fast food,300,ejipura,100
+CLAY POT TEA,snacks,300,ejipura,100
+Rana vada pav,juices,100,layout,500
+TEA LOUNGE CAFE,fast food,300,ashok-nagar,10
+The Sourdough Pizza Co.,pizzas,500,jp-nagar,100
+DOSE,healthy food,300,stage-btm,0
+Rolls Namita Ki,snacks,250,stage-btm,10
+Rolls Namita Ki,beverages,250,stage-btm,10
+Rolls Namita Ki,desserts,250,stage-btm,10
+Paratha Town,indian,200,koramangala,10
+SRI UDUPI FRUIT JUICE CENTRE,beverages,150,shanti-nagar,10
+SRI UDUPI FRUIT JUICE CENTRE,ice cream,150,shanti-nagar,10
+SRI UDUPI FRUIT JUICE CENTRE,juices,150,shanti-nagar,10
+IYENGARS AMMA PASTRIES,bakery,200,banashankari,10
+IYENGARS AMMA PASTRIES,desserts,200,banashankari,10
+Annapurna Fresh Food,indian,150,hennur,10
+Annapurna Fresh Food,chinese,150,hennur,10
+Annapurna Fresh Food,chaat,150,hennur,10
+MITHRA CAFE,south indian,200,jayanagar,20
+Cake Party,bakery,300,jayanagar,0
+Amrutha Sweet Bazaar,sweets,300,indiranagar,10
+Steak Bae,snacks,700,kammanahalli,10
+Steak Bae,beverages,700,kammanahalli,10
+Steak Bae,fast food,700,kammanahalli,10
+Copper + Cloves,continental,800,indiranagar,0
+Copper + Cloves,salads,800,indiranagar,0
+Copper + Cloves,desserts,800,indiranagar,0
+Copper + Cloves,beverages,800,indiranagar,0
+Thatha Tea,beverages,300,kalyan-nagar,10
+Ukdk Holigemane Kuruk Thindi shop,desserts,200,yeshwantpur,10
+Dr. Carrot,juices,400,layout,10
+Dr. Carrot,beverages,400,layout,10
+Dr. Carrot,desserts,400,layout,10
+Smiti snacks,snacks,100,indiranagar,50
+OM SRI SAI TIFFEN CENTER,south indian,200,layout,10
+Food Xpress,snacks,350,basavanagudi,10
+Food Xpress,chinese,350,basavanagudi,10
+Food Xpress,indian,350,basavanagudi,10
+Food Xpress,chaat,350,basavanagudi,10
+Food Xpress,beverages,350,basavanagudi,10
+LOHIYA'S KITCHEN,indian,100,basavanagudi,20
+LOHIYA'S KITCHEN,thalis,100,basavanagudi,20
+LOHIYA'S KITCHEN,snacks,100,basavanagudi,20
+Crispy Bites,italian,300,layout,10
+Crispy Bites,pizzas,300,layout,10
+Flavours Of Punjab,north indian,150,layout,10
+Gudbud Sundaes,desserts,400,jayanagar,20
+Gudbud Sundaes,ice cream,400,jayanagar,20
+Raw food & juice junction,indian,300,layout,50
+YUMMY YUMMS,fast food,150,jayanagar,10
+YUMMY YUMMS,snacks,150,jayanagar,10
+YUMMY YUMMS,pastas,150,jayanagar,10
+YUMMY YUMMS,beverages,150,jayanagar,10
+SRI BALAJI CAKES,bakery,200,vijayanagar,10
+30 Square,chinese,300,koramangala,1000
+Midnight Pizza And Food,pizzas,200,indiranagar,100
+Midnight Pizza And Food,chinese,200,indiranagar,100
+GULSHAN KA DHABA,indian,150,layout,50
+ONLY BREADS,bakery,180,vasanth-nagar,10
+ONLY BREADS,fast food,180,vasanth-nagar,10
+G.F Daily Fresh Juice Land,juices,2,town,10
+G.F Daily Fresh Juice Land,beverages,2,town,10
+Kadamba Foodline,south indian,400,halasuru,100
+Shake Side,beverages,250,koramangala,10
+Shake Side,street food,250,koramangala,10
+Shake Side,american,250,koramangala,10
+Amagat Garden Cafe,beverages,400,indiranagar,10
+Amagat Garden Cafe,fast food,400,indiranagar,10
+Amagat Garden Cafe,snacks,400,indiranagar,10
+Amagat Garden Cafe,salads,400,indiranagar,10
+Amagat Garden Cafe,desserts,400,indiranagar,10
+Wats in the Wrap,chinese,300,layout,10
+Wats in the Wrap,indian,300,layout,10
+Burger on Demand,american,300,layout,10
+New Donne Biriyani House,biryani,250,kalyan-nagar,10
+New Donne Biriyani House,kebabs,250,kalyan-nagar,10
+New Donne Biriyani House,snacks,250,kalyan-nagar,10
+Big Cup Cafe,beverages,500,bel-road,10
+Big Cup Cafe,fast food,500,bel-road,10
+Big Cup Cafe,italian,500,bel-road,10
+Big Cup Cafe,ice cream,500,bel-road,10
+Happy Eats,north indian,300,jp-nagar,50
+Happy Eats,chinese,300,jp-nagar,50
+Happy Eats,home food,300,jp-nagar,50
+Happy Eats,rajasthani,300,jp-nagar,50
+HumbleBean Coffee,beverages,400,indiranagar,20
+HumbleBean Coffee,desserts,400,indiranagar,20
+Wok & Talk,chinese,300,koramangala,10
+The Pastry Cafe,bakery,500,layout,10
+The Pastry Cafe,desserts,500,layout,10
+M & M'S CAFE,south indian,200,indiranagar,10
+M & M'S CAFE,beverages,200,indiranagar,10
+M & M'S CAFE,chinese,200,indiranagar,10
+SL Vadapav,indian,100,jayanagar,1000
+SL Vadapav,beverages,100,jayanagar,1000
+ROMEO LASSI SHOP,beverages,250,central,100
+ROMEO LASSI SHOP,ice cream,250,central,100
+ROMEO LASSI SHOP,snacks,250,central,100
+ROMEO LASSI SHOP,desserts,250,central,100
+Cothas Coffee Co,snacks,150,malleshwaram,20
+Lalbagh Grand - Unit of udupi foods,chinese,250,basavanagudi,1000
+Lalbagh Grand - Unit of udupi foods,jain,250,basavanagudi,1000
+Lalbagh Grand - Unit of udupi foods,north indian,250,basavanagudi,1000
+Lalbagh Grand - Unit of udupi foods,south indian,250,basavanagudi,1000
+Megna's Gourmet,burgers,200,basavanagudi,10
+Megna's Gourmet,pizzas,200,basavanagudi,10
+Megna's Gourmet,italian,200,basavanagudi,10
+Aditya Kitchen,north indian,300,jp-nagar,10
+Aditya Kitchen,biryani,300,jp-nagar,10
+Aditya Kitchen,snacks,300,jp-nagar,10
+ La Pasta and More,pastas,100,indiranagar,50
+ La Pasta and More,biryani,100,indiranagar,50
+ La Pasta and More,pizzas,100,indiranagar,50
+ La Pasta and More,desserts,100,indiranagar,50
+ La Pasta and More,chinese,100,indiranagar,50
+All India Caterers,indian,220,tengumal-nagar,10
+All India Caterers,biryani,220,tengumal-nagar,10
+All India Caterers,beverages,220,tengumal-nagar,10
+Padmanabha Tiffen Centre,south indian,100,kammanahalli,10
+Indotalian I I Cafe,italian,300,sadashiv-nagar,10
+Indotalian I I Cafe,snacks,300,sadashiv-nagar,10
+Indotalian I I Cafe,beverages,300,sadashiv-nagar,10
+Indotalian I I Cafe,ice cream,300,sadashiv-nagar,10
+Indotalian I I Cafe,desserts,300,sadashiv-nagar,10
+Cafe Grey By Dongle & Co,beverages,450,indiranagar,50
+Cafe Grey By Dongle & Co,pizzas,450,indiranagar,50
+Cafe Grey By Dongle & Co,fast food,450,indiranagar,50
+Cafe Grey By Dongle & Co,bakery,450,indiranagar,50
+Cafe Grey By Dongle & Co,desserts,450,indiranagar,50
+VINAY NDMS,snacks,300,jp-nagar,10
+Madras Kulfi,desserts,200,koramangala,10
+Eiffel Cafe,snacks,300,indiranagar,10
+Eiffel Cafe,fast food,300,indiranagar,10
+Eiffel Cafe,beverages,300,indiranagar,10
+NEETH MEDAPPA PATISSERIE,desserts,300,ashok-nagar,20
+YELNEER SWAADA,fast food,250,vijayanagar,10
+YELNEER SWAADA,snacks,250,vijayanagar,10
+YELNEER SWAADA,desserts,250,vijayanagar,10
+BUNA COFFEE,beverages,300,malleshwaram,0
+BUNA COFFEE,snacks,300,malleshwaram,0
+MR BUNS AND GRILLS,juices,200,rajajinagar,10
+MR BUNS AND GRILLS,fast food,200,rajajinagar,10
+JUST BAKE-CHANDRA LAYOUT,bakery,300,vijayanagar,10
+JUST BAKE-CHANDRA LAYOUT,snacks,300,vijayanagar,10
+Benjamin Bakes and cakes,bakery,249,koramangala,10
+Roll-a-Pao,indian,450,ashok-nagar,10
+HELLO PARATHA,indian,300,koramangala,10
+HELLO PARATHA,beverages,300,koramangala,10
+Chai Galli,beverages,250,jp-nagar,20
+Chai Galli,snacks,250,jp-nagar,20
+Jolly's Kitchen,indian,190,indiranagar,20
+Jolly's Kitchen,chinese,190,indiranagar,20
+Jolly's Kitchen,beverages,190,indiranagar,20
+Hotel Moti Mahal,north indian,300,majestic,10
+Hotel Moti Mahal,snacks,300,majestic,10
+Hotel Moti Mahal,biryani,300,majestic,10
+Smoodies & Juices- Yours Fruitfully,beverages,270,central,20
+Smoodies & Juices- Yours Fruitfully,juices,270,central,20
+Smoodies & Juices- Yours Fruitfully,healthy food,270,central,20
+Smoodies & Juices- Yours Fruitfully,desserts,270,central,20
+Olive Cafe,beverages,150,ashok-nagar,10
+Olive Cafe,juices,150,ashok-nagar,10
+Olive Cafe,snacks,150,ashok-nagar,10
+Olive Cafe,fast food,150,ashok-nagar,10
+Aligarh House - Biryani & Ramzan Specials,biryani,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,mughlai,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,kebabs,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,north indian,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,lucknowi,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,fast food,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,desserts,400,cunningham-road,100
+Aligarh House - Biryani & Ramzan Specials,beverages,400,cunningham-road,100
